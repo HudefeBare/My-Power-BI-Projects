@@ -56,37 +56,6 @@ Created calculations in the semantic model to turn raw sales into business measu
 * Designing report pages with tables, charts, cards and a slicer
 * Publishing the finished report to the Power BI service
 
-## 📸 Report Visuals
-
-### Sales vs Target Dashboard
-
-![Sales vs Target dashboard](images/report-dashboard.png)
-
-The published report page filtered to **FY2018**. Four KPI cards show Sum of Sales, Target, Variance and Variance Margin, with sales landing slightly below target overall. Two clustered bar charts compare monthly sales (light blue) against target (dark blue) from July 2017 to June 2018. November and December 2017 fell short of target, while months such as August 2017, February 2018 and May 2018 beat it.
-
-### Getting Data into Power BI
-
-![Power Query get data](images/power-query-get-data.png)
-
-The Power Query Editor showing 8 queries loaded from the AdventureWorks database, including the DimEmployee table. Column profiling displays valid, error and empty percentages to check data quality before loading.
-
-### Cleaning & Transforming Data
-
-![Power Query clean and transform](images/power-query-clean-transform.png)
-
-The cleaned **Salesperson** table with its applied steps (Filtered Rows, Removed Other Columns, Merged Columns, Renamed Columns), producing a tidy table of 18 salespeople ready for the data model.
-
-### Designing the Report
-
-![Report design tables](images/report-design-tables.png)
-
-Report page with tables of Sum of Sales by product category, by salesperson and by order date with profit and profit margin. Total sales come to **$77.5M**, with Bikes the largest category at $64.1M.
-
-### DAX Measures
-
-![DAX measures](images/dax-measures.png)
-
-Tables built with the new DAX measures. Profit and Profit Margin by category show Accessories with the highest margin (34.89%), Clothing at 14.34% and Components at 8.92%, while Bikes run at a small loss (-0.68%) despite the highest sales. The salesperson table adds Target, Variance and Variance Margin to show who is above or below target.
 
 ## 📁 Included Outputs
 
@@ -105,3 +74,20 @@ This project strengthened skills in:
 * Building interactive reports with slicers and filters
 * Choosing clear visuals to compare performance against targets
 * Using data storytelling to turn retail and sales data into insights
+
+
+## 📸 Report Visuals
+
+📸 Sales Report
+
+
+
+📸 AdventureWorks Report
+
+<img width="1428" height="800" alt="image" src="https://github.com/user-attachments/assets/acca747f-2723-491b-b3be-29182fe15c9a" />
+
+<img width="890" height="492" alt="image" src="https://github.com/user-attachments/assets/97fdda3e-02b2-4344-9ef2-d43d33441b78" />
+
+
+
+
