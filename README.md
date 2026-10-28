@@ -78,18 +78,17 @@ This project strengthened skills in:
 
 ## 📸 Report Visuals
 
-📸 Sales Report
+📸 AdevntureWork Sales Report
 
-
-
-📸 AdventureWorks Report
+<img width="769" height="258" alt="Screenshot 2026-10-28 at 14 58 01" src="https://github.com/user-attachments/assets/e6ea26a0-80d8-44ae-88a3-ef2024861fe4" />
 
 <img width="1428" height="800" alt="image" src="https://github.com/user-attachments/assets/acca747f-2723-491b-b3be-29182fe15c9a" />
 
 <img width="1108" height="690" alt="Screenshot 2026-10-28 at 14 45 21" src="https://github.com/user-attachments/assets/9e6022f1-4a5e-4d7c-9f3a-ed3dd8b80d92" />
 
-[[Link to My Report]](https://app.powerbi.com/view?r=eyJrIjoiMDAyYTkzZDEtZmM3Ny00OTY5LWFkYzYtMmY3YWQyYTMxNzk5IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
+[Link to My Reports
+](https://app.powerbi.com/view?r=eyJrIjoiMDAyYTkzZDEtZmM3Ny00OTY5LWFkYzYtMmY3YWQyYTMxNzk5IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 
 
