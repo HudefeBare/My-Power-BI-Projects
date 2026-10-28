@@ -86,7 +86,11 @@ This project strengthened skills in:
 
 <img width="1428" height="800" alt="image" src="https://github.com/user-attachments/assets/acca747f-2723-491b-b3be-29182fe15c9a" />
 
-<img width="890" height="492" alt="image" src="https://github.com/user-attachments/assets/97fdda3e-02b2-4344-9ef2-d43d33441b78" />
+<img width="1108" height="690" alt="Screenshot 2026-10-28 at 14 45 21" src="https://github.com/user-attachments/assets/9e6022f1-4a5e-4d7c-9f3a-ed3dd8b80d92" />
+
+[Link to My Report]
+
+
 
 
 
