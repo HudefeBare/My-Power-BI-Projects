@@ -88,7 +88,7 @@ This project strengthened skills in:
 
 <img width="1108" height="690" alt="Screenshot 2026-10-28 at 14 45 21" src="https://github.com/user-attachments/assets/9e6022f1-4a5e-4d7c-9f3a-ed3dd8b80d92" />
 
-[Link to My Report]
+[[Link to My Report]](https://app.powerbi.com/view?r=eyJrIjoiMDAyYTkzZDEtZmM3Ny00OTY5LWFkYzYtMmY3YWQyYTMxNzk5IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 
 
