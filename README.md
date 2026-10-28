@@ -1,1 +1,92 @@
-# My-Power-BI-Projects
+📊 Power BI Retail & Sales Analysis Project
+
+Data Technician Bootcamp – Week 2 Project
+
+📌 Project Overview
+This project was completed as part of a Data Technician bootcamp, focusing on developing practical skills in Microsoft Power BI for data transformation, modelling, calculation and visual storytelling.
+Using the AdventureWorks reseller sales data, the project demonstrates proficiency with Power Query, DAX measures, interactive reports with slicers, and visuals that compare sales against targets.
+🔗 Live Report
+
+👉 View the interactive report on Power BI Service
+
+The report is published to the Power BI service (app.powerbi.com) and can be explored with the Year slicer.
+
+🧰 Skills & Techniques Used
+🔍 Data Transformation & Cleaning (Power Query)
+
+Prepared the source data before loading it into the model:
+
+Connected to a SQL Server database (AdventureWorksDW2020) and to a CSV file of sales targets
+Loaded and profiled 8 queries (employee, product, reseller, territory, sales and targets tables) using column quality and distribution checks
+Cleaned the Salesperson table using applied steps: Filtered Rows, Removed Other Columns, Merged Columns and Renamed Columns
+Set correct data types (for example Year and EmployeeID as whole numbers)
+Loaded the cleaned tables into the data model with Close & Apply
+🧮 DAX Calculations
+
+Created calculations in the semantic model to turn raw sales into business measures:
+
+Profit – sales profit by category and by order date
+Profit Margin – profit as a percentage of sales
+Target – sales targets per salesperson
+Variance – difference between sales and target
+Variance Margin – variance as a percentage of target
+🎛️ Interactive Reporting
+Year slicer to filter the whole report by financial year (e.g. FY2018)
+Filters and cross-highlighting between visuals
+KPI cards that update instantly when a filter is applied
+📊 Visualisations
+Clustered bar charts comparing Sum of Sales and Target by month
+KPI cards for Sum of Sales, Target, Variance and Variance Margin
+Tables and matrices for sales by category, salesperson and order date
+🗂️ Project Tasks Completed
+Getting data from a SQL Server database and a CSV file
+Cleaning, merging and transforming tables in Power Query
+Creating DAX measures for profit, profit margin, variance and variance margin
+Designing report pages with tables, charts, cards and a slicer
+Publishing the finished report to the Power BI service
+📸 Report Visuals
+Sales vs Target Dashboard
+
+Sales vs Target dashboard
+
+The published report page filtered to FY2018. Four KPI cards show Sum of Sales, Target, Variance and Variance Margin, with sales landing slightly below target overall. Two clustered bar charts compare monthly sales (light blue) against target (dark blue) from July 2017 to June 2018. November and December 2017 fell short of target, while months such as August 2017, February 2018 and May 2018 beat it.
+
+Getting Data into Power BI
+
+Power Query get data
+
+The Power Query Editor showing 8 queries loaded from the AdventureWorks database, including the DimEmployee table. Column profiling displays valid, error and empty percentages to check data quality before loading.
+
+Cleaning & Transforming Data
+
+Power Query clean and transform
+
+The cleaned Salesperson table with its applied steps (Filtered Rows, Removed Other Columns, Merged Columns, Renamed Columns), producing a tidy table of 18 salespeople ready for the data model.
+
+Designing the Report
+
+Report design tables
+
+Report page with tables of Sum of Sales by product category, by salesperson and by order date with profit and profit margin. Total sales come to $77.5M, with Bikes the largest category at $64.1M.
+
+DAX Measures
+
+DAX measures
+
+Tables built with the new DAX measures. Profit and Profit Margin by category show Accessories with the highest margin (34.89%), Clothing at 14.34% and Components at 8.92%, while Bikes run at a small loss (-0.68%) despite the highest sales. The salesperson table adds Target, Variance and Variance Margin to show who is above or below target.
+
+📁 Included Outputs
+Published Power BI report (link above)
+Power BI project file (.pbix)
+Screenshots of the Power Query, report design and DAX work
+Sales vs target dashboard filtered by year
+🎓 Key Learning Outcomes
+
+This project strengthened skills in:
+
+Data cleaning and transformation with Power Query
+Connecting to multiple data sources (SQL Server and CSV)
+Writing DAX measures for profit, margin and variance
+Building interactive reports with slicers and filters
+Choosing clear visuals to compare performance against targets
+Using data storytelling to turn retail and sales data into insights
